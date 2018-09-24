@@ -7,3 +7,6 @@ import "fmt"
 func main() {
 fmt.Println("hello, world")
 }
+
+This shall not pass!!
+Why  don' you work?
